@@ -1,5 +1,5 @@
 # Foxcalc-CLI 
-### CLI Version of Foxcalc
+### CLI Version of [https://github.com/Redstone-The-Fox/Foxcalc](Foxcalc)
 
 Some math functions are supported:
 ```
