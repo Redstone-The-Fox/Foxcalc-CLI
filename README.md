@@ -16,3 +16,5 @@ ceil(),
 floor(),
 ans()
 ```
+
+Docker image: https://hub.docker.com/repository/docker/redstonethefox/foxcalc-cli
